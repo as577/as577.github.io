@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{"16l3":function(t,a,n){"use strict";n.r(a),n.d(a,"pageQuery",(function(){return c}));var e=n("q1tI"),o=n.n(e),r=n("xw5c");a.default=function(t){var a=t.data,n=t.location;return o.a.createElement(r.a,{data:a,location:n,type:"project"})};var c="1997576423"}}]);
+//# sourceMappingURL=component---src-pages-projects-js-76ef831114d24a01ac0f.js.map
